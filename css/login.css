@@ -1,0 +1,29 @@
+
+/*--------------FORMULARIO_LOGIN----------------------*/
+
+.form-login{
+	max-width: 350px;
+	margin: 40px auto ;
+	background: white;
+}
+.form-login-heading{
+	background: #68dff0;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	font-weight: 300;
+	padding: 20px 50px;
+	border-radius: 5px 5px 0 0;
+}
+.login-wrap{
+	padding: 15px;
+}
+.registration{
+	text-align: center;
+	margin-top: 10px;
+}
+.modal-header{
+	background: #65DEEF;
+	color: white;
+	border-radius: 5px 5px 0 0;
+}
